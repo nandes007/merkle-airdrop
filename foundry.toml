@@ -2,6 +2,7 @@
 src = "src"
 out = "out"
 libs = ["lib"]
+fs_permissions = [{ access = "read-write", path = "./" }]
 remappings = [
     "@openzepplin/contracts=lib/openzepplin-contracts/contracts",
     "murky/=lib/murky/",
