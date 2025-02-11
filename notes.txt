@@ -1,0 +1,2 @@
+AirDrop address in zksync: 0x0a166f0a8DAFd309c0E8Ac5c5A63428351C61858 (https://sepolia.explorer.zksync.io/address/0x0a166f0a8DAFd309c0E8Ac5c5A63428351C61858)
+Token address in zksync: 0xd5Db3Ee0d650542D3a35b41dA5183d95abc7bAB5 (https://sepolia.explorer.zksync.io/address/0xd5Db3Ee0d650542D3a35b41dA5183d95abc7bAB5)
